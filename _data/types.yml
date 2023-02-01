@@ -2,27 +2,30 @@
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
-- name: Computer Vision
-  sub: CV
+- name: Computer Networks
+  sub: CN
   color: "#deff0a"
-- name: Computer Graphics
-  sub: CG
+- name: Distributed Systems
+  sub: DS
   color: "#0aefff"
 - name: Natural Language Proc
   sub: NLP
   color: "#147df5"
-- name: Robotics
-  sub: RO
+- name: Next Generation
+  sub: NG
   color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
+- name: Blcockchain
+  sub: BC
   color: "#580aff"
-- name: Data Mining
-  sub: DM
+- name: Cryptography
+  sub: CR
   color: "#be0aff"
-- name: Automated Planning
-  sub: AP
-  color: "#a432a8"
-- name: Knowledge Representation
-  sub: KR
-  color: "#32a855"
+- name: Security and Privacy
+  sub: SP
+  color: "#a432a8" 
+- name: Computer Vision
+  sub: CV
+  color: "#a432a8" 
+- name: Operating Systems
+  sub: OS
+  color: "#a432a8" 

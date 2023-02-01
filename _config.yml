@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Networking Conference Deadlines
+description: Countdowns to top networking conference deadlines
+author: Grupo de Teleinformática e Automação
 
-domain: "aideadlin.es"
+domain: "gta.ufrj.br/~gustavo/deadlines"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: networking
+github_username: gFrancoCamilo
+github_repo: networking-deadlines
 
 markdown: kramdown
 ga_id:
